@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @IgorVDubov
+- 👋 Hi, I’m Igor Dubov
 - 👀 I’m interested in fullstack programming for SCADA \ HMI projects 
 - 🌱 I’m currently learning Python, JS, HTML, CSS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects according to my interests
 - 📫 How to reach me 4dubov@gmail.com
 
 <!---
